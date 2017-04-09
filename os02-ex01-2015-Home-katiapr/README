@@ -1,0 +1,18 @@
+
+User name:katiapr
+Name ID: Katia Prigon 322088154
+Date: 26/3/15
+
+Including files:
+shell.c
+README
+
+Description:
+the program create a mini shell that can run a bash commands
+the program prints the user line [login]@[host]
+and then gets commands and arguments and prints it:
+Executable: [command]
+Arg [i]:(i is a number of argument)[argument]
+this program can identify a special argument '&'.
+to stop the program, user needs to write 'exit'
+
